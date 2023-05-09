@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is Vunderly.com's Github. We're a small startup, building away and scheduled to release in mid Q4 2023. 
+
 <!--
 
 **Here are some ideas to get you started:**
